@@ -5,7 +5,7 @@ Try to do it on your own without any tips or ai. If you forgot command lines the
 
 ### Steps
 1. Clone this OWNER/REPOSITORY with GitHub address 
-2. Enter the this repository
+2. Enter this repository
 3. Create a virtual enviroment
 4. Activate it
 5. Install the package
