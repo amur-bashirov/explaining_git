@@ -1,6 +1,6 @@
 # Instructions for Git review for Mosenkov reasearch group. Made by great Me :)
 
-## Exercise No 1 
+### Exercise No 1 
 Try to do it on your own without any tips or ai. If you forgot command lines then check this [slide](Images/Repo_installation.png). However, try to do it without this slide as much as possible.
 
 ### Steps
