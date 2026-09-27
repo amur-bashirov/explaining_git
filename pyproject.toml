@@ -3,11 +3,11 @@ requires = ["setuptools>=61.0"]
 build-backend = "setuptools.build_meta"
 
 [project]
-name = "Amur's_package"
+name = "package_of_amur"
 version = "0.1.0"
 description = "A demo package for explaining git and pip workflows"
 requires-python = ">=3.8"
 
 [tool.setuptools.packages.find]
 where = ["."]
-include = ["Amur's_package*"]
+include = ["package_of_amur*"]
