@@ -4,7 +4,7 @@ build-backend = "setuptools.build_meta"
 
 [project]
 name = "package_of_amur"
-version = "0.1.0"
+version = "1.2.0"
 description = "A demo package for explaining git and pip workflows"
 requires-python = ">=3.8"
 
