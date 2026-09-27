@@ -28,3 +28,4 @@ You can this [cheat sheet](public/exercise3_sheet.md) if you forgot command line
 1. Install the package directly from GitHub, without cloning the repository
 2. Verify the installed version using `pip show` 
 3. Now install a specific tagged release (`v0.1.0`) instead of the latest version, and check the version again to see the difference
+4. Install release(`v1.2.0`) which is the latest version, and check the version again
