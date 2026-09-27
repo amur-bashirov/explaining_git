@@ -19,4 +19,12 @@ You can still use this [slide](Images/Repo_installation.png) if you forgot comma
 ### Steps
 1. Update repsitory
 2. reinstall after updates
-3. run `python run.py say_hello_v2`
+3. run `python run.py`
+
+## Exercise No 3
+You can still use this [slide](Images/Repo_installation.png) if you forgot command lines.
+
+### Steps
+1. Install the package directly from GitHub, without cloning the repository
+2. Verify the installed version using `pip show` 
+3. Now install a specific tagged release (`v0.1.0`) instead of the latest version, and check the version again to see the difference
