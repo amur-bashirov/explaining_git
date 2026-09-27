@@ -22,7 +22,7 @@ You can still use this [slide](public/Images/Repo_installation.png) if you forgo
 3. run `python run.py`
 
 ## Exercise No 3
-You can this [cheat sheet](public/exercise3_sheet.md) if you forgot command lines.
+You can use this [cheat sheet](public/exercise3_sheet.md) if you forgot command lines.
 
 ### Steps
 1. Install the package directly from GitHub, without cloning the repository
