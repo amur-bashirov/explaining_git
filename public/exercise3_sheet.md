@@ -4,13 +4,20 @@
 ```
 python -m pip install "git+https://github.com/amur-bashirov/explaining_git.git"
 ```
-# 2. Verify the installed version
+### 2. Verify the installed version
 ```
 python -m pip show package_of_amur
 ```
 
-# 3. Now install a specific tagged release instead, and check the version again
+### 3. Now install a specific tagged release instead, and check the version again
 ```
 python -m pip install "git+https://github.com/amur-bashirov/explaining_git.git@v0.1.0"
+python -m pip show package_of_amur
+```
+
+### 4. Install release(`v1.2.0`) which is the latest version, and check the version again
+
+```
+python -m pip install "git+https://github.com/amur-bashirov/explaining_git.git@v1.2.0"
 python -m pip show package_of_amur
 ```
